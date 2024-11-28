@@ -11,7 +11,7 @@ NewsGrid is a modern, responsive news website designed to deliver the latest new
 
 
 ### How to Use:
-Navigation: Use the top navigation to browse through the homepage, about page, or access social media.
-Articles: On the homepage, click on articles to read more. Each article includes its category (e.g., Sports, Entertainment).
-Join the Club: Use the "Join Now" button to join the website's club.
-Newsletter Subscription: Fill in the email form in the footer to subscribe to the newsletter and stay updated.
+- Navigation: Use the top navigation to browse through the homepage, about page, or access social media.
+- Articles: On the homepage, click on articles to read more. Each article includes its category (e.g., Sports, Entertainment).
+- Join the Club: Use the "Join Now" button to join the website's club.
+- Newsletter Subscription: Fill in the email form in the footer to subscribe to the newsletter and stay updated.
